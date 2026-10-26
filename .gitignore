@@ -1,0 +1,34 @@
+# Resultados de compilación
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+obj/
+bin/
+
+# Núcleo de .NET
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Paquetes NuGet
+*.nupkg
+*.snupkg
+
+# Archivos temporales de Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Archivos de publicación (por si acaso)
+publish/
